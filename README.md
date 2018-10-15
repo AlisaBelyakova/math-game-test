@@ -7,9 +7,9 @@ To launch the project fork the directory and pull it to your local machine, then
 - explore the project at *localhost:3000*
 
 
-✅ Find count of requests made by your client on the home pathe '/'
+✅ Find a count of requests made by your client on the home pathe '/'
 
-✅ Find simple calculator at '/math'
+✅ Find a simple calculator at '/math'
 
-✅ Find Game of Life at '/game'. 
+✅ Find the Game of Life at '/game'. 
 If you would like to learn more about game, read [this article](https://en.wikipedia.org/wiki/Conway's_Game_of_Life).
